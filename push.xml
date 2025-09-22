@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<macro>
-  <device type="switchbot" mac="EE:2E:01:46:51:89">
-    <action name="push"/>
-  </device>
-</macro>
